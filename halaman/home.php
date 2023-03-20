@@ -1,0 +1,4 @@
+<div class="halaman">
+<h1><center>SELAMAT DATANG CALON MAHASISWA YEET UNIVERSITY</center></h1>
+<h2><center>SILAHKAN MENUJU FORM PENDAFTARAN CALON MAHASISWA YEET UNIVERSITY</center></h2>
+</div>
